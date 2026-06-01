@@ -1,83 +1,76 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A0033,100:00D9FF&height=140&section=header&text=CAIO_DAMASCENO&fontSize=38&fontColor=00FFFF&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Engineer%20%2F%2F%20init%20--force&descSize=16&descFontColor=FFE600&descAlignY=58" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,40:0D1117,100:00B4D8&height=120&section=header" alt="header"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=15&duration=3200&pause=600&color=00D9FF&center=true&vCenter=true&width=720&lines=const+dev%3A+Engineer+%3D+new+CaioDamasceno()%3B+%2F%2F+TypeScript;public+class+CaioDamasceno+%3A+ISoftwareEngineer+%7B+%7D+%2F%2F+C%23;public+class+CaioDamasceno+implements+FullStack+%7B+%7D+%2F%2F+Java;SELECT+*+FROM+developers+WHERE+name+%3D+%27Caio%27%3B+--+SQL+Server" alt="Code Typing"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/caiolsdamasceno/"><img src="https://img.shields.io/badge/_%2F%2F_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/caioldamasceno"><img src="https://img.shields.io/badge/_%2F%2F_github-FFE600?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=300&color=00B4D8&center=true&vCenter=true&multiline=false&width=580&lines=%2F%2F%20TypeScript;interface%20IEngineer%20%7B;%20%20name%3A%20string%3B;%20%20solve(problem%3A%20Problem)%3A%20Solution%3B;%7D;%2F%2F%20C%23;public%20class%20Engineer%20%3A%20IEngineer%20%7B;%20%20public%20Solution%20Solve(Problem%20p);%20%20%20%20%3D%3E%20Repository.Handle(p)%3B;%7D;%2F%2F%20Java;%40Service;public%20class%20EngineerService%20%7B;%20%20public%20Solution%20solve(Problem%20p)%20%7B;%20%20%20%20return%20repository.handle(p)%3B;%20%20%7D;%7D;--%20SQL%20Server;SELECT%20name%2C%20solution;FROM%20engineers;WHERE%20focus%20%3D%20'backend';%20%20AND%20level%20%3D%20'senior'%3B" alt="Code Typing Loop"/>
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-<h3>&gt; sobre_mim.exe</h3>
-<p>Engenheiro full stack operando nas camadas mais profundas do sistema. Do banco de dados ate a interface, construo coisas que escalam, nao quebram, e resolvem problemas reais.</p>
-<p>Codigo limpo nao e estetica, e sobrevivencia. Arquiteto APIs, domino monorepos e transito entre front e back como se fossem o mesmo plano de execucao.</p>
-<h3>&gt; stack.config</h3>
-<p><strong>[ front ]</strong><br/>
-<img src="https://img.shields.io/badge/React-00D9FF?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Angular-FF0060?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/TypeScript-FFE600?style=flat-square&logo=typescript&logoColor=black" alt="TypeScript"/>
-</p>
-<p><strong>[ back ]</strong><br/>
-<img src="https://img.shields.io/badge/NestJS-E040FB?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
-<img src="https://img.shields.io/badge/.NET-7B2FBE?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-<img src="https://img.shields.io/badge/Java-FF6B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Node.js-00FF88?style=flat-square&logo=nodedotjs&logoColor=black" alt="Node.js"/>
-</p>
-<p><strong>[ infra ]</strong><br/>
-<img src="https://img.shields.io/badge/SQL_Server-FF003C?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-<img src="https://img.shields.io/badge/PostgreSQL-00D9FF?style=flat-square&logo=postgresql&logoColor=black" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Docker-0070FF?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-</td>
-<td valign="top" width="50%">
-<h3>&gt; about_me.exe</h3>
-<p>Full stack engineer running deep in the system. From database to UI, I build things that scale, don't crash, and solve real problems.</p>
-<p>Clean code is not aesthetics - it's survival. I architect APIs, handle monorepos, and move between front and back as if they're the same execution plane.</p>
-<h3>&gt; stack.config</h3>
-<p><strong>[ front ]</strong><br/>
-<img src="https://img.shields.io/badge/React-00D9FF?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Angular-FF0060?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/TypeScript-FFE600?style=flat-square&logo=typescript&logoColor=black" alt="TypeScript"/>
-</p>
-<p><strong>[ back ]</strong><br/>
-<img src="https://img.shields.io/badge/NestJS-E040FB?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
-<img src="https://img.shields.io/badge/.NET-7B2FBE?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-<img src="https://img.shields.io/badge/Java-FF6B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Node.js-00FF88?style=flat-square&logo=nodedotjs&logoColor=black" alt="Node.js"/>
-</p>
-<p><strong>[ infra ]</strong><br/>
-<img src="https://img.shields.io/badge/SQL_Server-FF003C?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-<img src="https://img.shields.io/badge/PostgreSQL-00D9FF?style=flat-square&logo=postgresql&logoColor=black" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Docker-0070FF?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-</td>
-</tr>
-</table>
+<h2>Caio Damasceno</h2>
 
-### &gt; main_skills.load()
+Software Developer focused on backend and enterprise application development.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cs,java,dotnet,nestjs,react,angular,nodejs,postgres,docker,git,github)](https://skillicons.dev)
+Working primarily with **.NET**, **Java**, **Angular** and **SQL Server**, developing and maintaining business-critical applications, APIs, system integrations and legacy platforms.
 
-### &gt; github_stats.exe
+Interested in software architecture, backend development, system modernization, performance optimization and emerging technologies.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=caioldamasceno&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=00FFFF&icon_color=FFE600&text_color=FFFFFF" height="165" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=caioldamasceno&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=FFFFFF" height="165" alt="languages"/>
-</div>
+This GitHub contains personal projects, studies, experiments and technical explorations.
 
-### &gt; connect.init()
+---
+
+**Main Stack**
 
 <div>
-<a href="https://www.linkedin.com/in/caiolsdamasceno/"><img src="https://img.shields.io/badge/_%2F%2F_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/caioldamasceno"><img src="https://img.shields.io/badge/_%2F%2F_github-FFE600?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:1A0033,100:0D0D0D&height=120&section=footer" alt="footer"/>
+<br/>
+
+**Additional Technologies**
+
+<div>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
+</div>
+
+<br/>
+
+**Interests**
+
+<div>
+<img src="https://img.shields.io/badge/Software_Architecture-00B4D8?style=flat-square&logoColor=white" alt="Software Architecture"/>
+<img src="https://img.shields.io/badge/Backend_Development-00B4D8?style=flat-square&logoColor=white" alt="Backend Development"/>
+<img src="https://img.shields.io/badge/Enterprise_Systems-0077B6?style=flat-square&logoColor=white" alt="Enterprise Systems"/>
+<img src="https://img.shields.io/badge/System_Integration-0077B6?style=flat-square&logoColor=white" alt="System Integration"/>
+<img src="https://img.shields.io/badge/Legacy_Modernization-023E8A?style=flat-square&logoColor=white" alt="Legacy Modernization"/>
+<img src="https://img.shields.io/badge/Performance_Optimization-023E8A?style=flat-square&logoColor=white" alt="Performance Optimization"/>
+<img src="https://img.shields.io/badge/AI--Assisted_Development-023E8A?style=flat-square&logoColor=white" alt="AI-Assisted Development"/>
+</div>
+
+---
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=caioldamasceno&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00B4D8&icon_color=00B4D8" height="155" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=caioldamasceno&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=00B4D8" height="155" alt="languages"/>
+</div>
+
+---
+
+<div>
+<a href="https://www.linkedin.com/in/caiolsdamasceno/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/caioldamasceno"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,60:0D1117,100:0A0A0A&height=100&section=footer" alt="footer"/>
