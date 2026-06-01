@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,40:0D1117,100:00B4D8&height=120&section=header" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=120&section=header" alt="header"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=300&color=00B4D8&center=true&vCenter=true&multiline=false&width=580&lines=%2F%2F%20TypeScript;interface%20IEngineer%20%7B;%20%20name%3A%20string%3B;%20%20solve(problem%3A%20Problem)%3A%20Solution%3B;%7D;%2F%2F%20C%23;public%20class%20Engineer%20%3A%20IEngineer%20%7B;%20%20public%20Solution%20Solve(Problem%20p);%20%20%20%20%3D%3E%20Repository.Handle(p)%3B;%7D;%2F%2F%20Java;%40Service;public%20class%20EngineerService%20%7B;%20%20public%20Solution%20solve(Problem%20p)%20%7B;%20%20%20%20return%20repository.handle(p)%3B;%20%20%7D;%7D;--%20SQL%20Server;SELECT%20name%2C%20solution;FROM%20engineers;WHERE%20focus%20%3D%20'backend';%20%20AND%20level%20%3D%20'senior'%3B" alt="Code Typing Loop"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=400&color=00B4D8&center=true&vCenter=true&multiline=false&width=600&lines=%2F%2F%20TypeScript;interface%20Engineer%20%7B;%20%20name%3A%20string%3B;%20%20solve(p%3A%20Problem)%3A%20Solution%3B;%7D;%2F%2F%20C%23;public%20class%20Engineer%20%3A%20IEngineer;%7B;%20%20%20%20public%20Solution%20Solve(Problem%20p);%20%20%20%20%20%20%20%20%3D%3E%20_repository.Handle(p)%3B;%7D;%2F%2F%20Java;%40Service;public%20class%20EngineerService%20%7B;%20%20%20%20public%20Solution%20solve(Problem%20p)%20%7B;%20%20%20%20%20%20%20%20return%20repository.handle(p)%3B;%20%20%20%20%7D;%7D;--%20SQL%20Server;SELECT%20name%2C%20solution;FROM%20%20%20engineers;WHERE%20%20focus%20%3D%20'backend';%20%20AND%20%20level%20%3D%20'senior'%3B" alt="Code Typing Loop"/>
 
 </div>
 
@@ -50,20 +50,13 @@ This GitHub contains personal projects, studies, experiments and technical explo
 **Interests**
 
 <div>
-<img src="https://img.shields.io/badge/Software_Architecture-00B4D8?style=flat-square&logoColor=white" alt="Software Architecture"/>
-<img src="https://img.shields.io/badge/Backend_Development-00B4D8?style=flat-square&logoColor=white" alt="Backend Development"/>
-<img src="https://img.shields.io/badge/Enterprise_Systems-0077B6?style=flat-square&logoColor=white" alt="Enterprise Systems"/>
-<img src="https://img.shields.io/badge/System_Integration-0077B6?style=flat-square&logoColor=white" alt="System Integration"/>
-<img src="https://img.shields.io/badge/Legacy_Modernization-023E8A?style=flat-square&logoColor=white" alt="Legacy Modernization"/>
-<img src="https://img.shields.io/badge/Performance_Optimization-023E8A?style=flat-square&logoColor=white" alt="Performance Optimization"/>
-<img src="https://img.shields.io/badge/AI--Assisted_Development-023E8A?style=flat-square&logoColor=white" alt="AI-Assisted Development"/>
-</div>
-
----
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=caioldamasceno&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00B4D8&icon_color=00B4D8" height="155" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=caioldamasceno&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=00B4D8" height="155" alt="languages"/>
+<img src="https://img.shields.io/badge/Software_Architecture-00B4D8?style=flat-square" alt="Software Architecture"/>
+<img src="https://img.shields.io/badge/Backend_Development-00B4D8?style=flat-square" alt="Backend Development"/>
+<img src="https://img.shields.io/badge/Enterprise_Systems-0077B6?style=flat-square" alt="Enterprise Systems"/>
+<img src="https://img.shields.io/badge/System_Integration-0077B6?style=flat-square" alt="System Integration"/>
+<img src="https://img.shields.io/badge/Legacy_Modernization-023E8A?style=flat-square" alt="Legacy Modernization"/>
+<img src="https://img.shields.io/badge/Performance_Optimization-023E8A?style=flat-square" alt="Performance Optimization"/>
+<img src="https://img.shields.io/badge/AI--Assisted_Development-023E8A?style=flat-square" alt="AI-Assisted Development"/>
 </div>
 
 ---
@@ -73,4 +66,4 @@ This GitHub contains personal projects, studies, experiments and technical explo
 <a href="https://github.com/caioldamasceno"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,60:0D1117,100:0A0A0A&height=100&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=100&section=footer" alt="footer"/>
